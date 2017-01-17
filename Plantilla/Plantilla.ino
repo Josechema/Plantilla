@@ -1,9 +1,36 @@
-void setup() {
-  // put your setup code here, to run once:
+/*****************************************************************
+**                                                              **
+**                       TÍTOL:                                 **
+**         Posar un nom representatiu del programa              **
+**                                                              **
+**  NOM: JOSE MARIA GIL FLORES              DATA:XX/XX/2017     **
+*****************************************************************/
 
+//********************* INCLUDE  *********************************
+
+
+//********************* VARIABLES ********************************
+
+
+
+//*********************** SETUP **********************************
+
+void setup() {             // configura el final de la salida
+
+
+ 
 }
 
-void loop() {
-  // put your main code here, to run repeatedly:
 
+//*********************** LOOP ***********************************
+
+
+void loop () {             // inicia el bucle del programa
+
+
+  
 }
+
+
+
+//*********************** FUNCIONS *******************************
