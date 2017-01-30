@@ -1,9 +1,9 @@
 /*****************************************************************
 **                                                              **
-**                       TÍTOL:                                 **
-**         Posar un nom representatiu del programa              **
+**                       TÍTOL:Blink                            **
+**         Encendre el led de proba de la placa arduino         **
 **                                                              **
-**  NOM: JOSE MARIA GIL FLORES              DATA:XX/XX/2017     **
+**  NOM: JOSE MARIA GIL FLORES              DATA:18/01/2017     **
 *****************************************************************/
 
 //********************* INCLUDE  *********************************
@@ -17,8 +17,6 @@
 
 void setup() {             // configura el final de la salida
 
-
- 
 }
 
 
@@ -27,8 +25,6 @@ void setup() {             // configura el final de la salida
 
 void loop () {             // inicia el bucle del programa
 
-
-  
 }
 
 
