@@ -1,9 +1,9 @@
 /*****************************************************************
 **                                                              **
-**                       TÍTOL:Blink                            **
-**         Encendre el led de proba de la placa arduino         **
+**                       TÍTOL:                                 **
+**         Titol                                                **
 **                                                              **
-**  NOM: JOSE MARIA GIL FLORES              DATA:18/01/2017     **
+**  NOM: JOSE MARIA GIL FLORES              DATA:XX/XX/XXXX     **
 *****************************************************************/
 
 //********************* INCLUDE  *********************************
